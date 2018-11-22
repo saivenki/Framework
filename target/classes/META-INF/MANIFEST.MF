@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: FrameWork
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: seqato-dtac
+Implementation-Vendor-Id: com.seqato.framework
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/FrameWork/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.beachpartner.user.MainApplication
+
